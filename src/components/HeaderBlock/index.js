@@ -15,8 +15,6 @@ const HeaderBlock = (props) => {
     return (
         <div className={ s.cover } style={ styleCover }>
             <div className={ s.wrap }>
-                {/*{title && <h1 className={s.header}>{title}</h1>}*/ }
-                {/*{desc && <p className={s.desc}>{desc}</p>}*/ }
                 { children }
             </div>
         </div>

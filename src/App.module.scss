@@ -1,0 +1,10 @@
+.flexParagraph {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  &.h2 {
+    width: 150px;
+    border: black solid 1px;
+    border-radius: 50%;
+  }
+}
