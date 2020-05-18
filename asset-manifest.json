@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/learning-cards/static/css/main.9b3a90df.chunk.css",
+    "main.js": "/learning-cards/static/js/main.8d117eea.chunk.js",
+    "main.js.map": "/learning-cards/static/js/main.8d117eea.chunk.js.map",
+    "runtime-main.js": "/learning-cards/static/js/runtime-main.718bb8ec.js",
+    "runtime-main.js.map": "/learning-cards/static/js/runtime-main.718bb8ec.js.map",
+    "static/js/2.1d19692b.chunk.js": "/learning-cards/static/js/2.1d19692b.chunk.js",
+    "static/js/2.1d19692b.chunk.js.map": "/learning-cards/static/js/2.1d19692b.chunk.js.map",
+    "index.html": "/learning-cards/index.html",
+    "precache-manifest.67d5f65471a151d8d3aa2770bc4c437b.js": "/learning-cards/precache-manifest.67d5f65471a151d8d3aa2770bc4c437b.js",
+    "service-worker.js": "/learning-cards/service-worker.js",
+    "static/css/main.9b3a90df.chunk.css.map": "/learning-cards/static/css/main.9b3a90df.chunk.css.map",
+    "static/js/2.1d19692b.chunk.js.LICENSE.txt": "/learning-cards/static/js/2.1d19692b.chunk.js.LICENSE.txt",
+    "static/media/background.jpg": "/learning-cards/static/media/background.898d65d0.jpg",
+    "static/media/background2.jpg": "/learning-cards/static/media/background2.f387ab5c.jpg",
+    "static/media/logo.5d5d9eef.svg": "/learning-cards/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.718bb8ec.js",
+    "static/js/2.1d19692b.chunk.js",
+    "static/css/main.9b3a90df.chunk.css",
+    "static/js/main.8d117eea.chunk.js"
+  ]
+}
